@@ -7,7 +7,7 @@ import java.util.List;
 public class main {
     public static void main(String[] args) {
 
-        File file = new File("/home/dzierzen/MEGA/Nauka/Studia/3SEM/ASD/algorithms/ALG/src/file.txt");
+        File file = new File("data/example_file.txt"); // 3 6 12 4 7 19 20 20 9 11
         Scanner scanner = null;
         try {
             scanner = new Scanner(file);
