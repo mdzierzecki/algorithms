@@ -1,2 +1,2 @@
 # algorithms
-Algorithms 
+Here we have few lgorithms :)
