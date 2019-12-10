@@ -2,9 +2,11 @@ import re
 import sys
 from Node import Node
 
+# run with file path as a first argument
+# file_path = sys.argv[1]
 
-file_path = sys.argv[1]
-file = open(file_path, "r")
+# tests for this algorithm with outputs in tests folder
+file = open("tests/input1", "r")
 
 lines = []
 # our main node
